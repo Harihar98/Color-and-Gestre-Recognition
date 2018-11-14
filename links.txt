@@ -1,14 +1,15 @@
-1) https://www.youtube.com/watch?v=IXyO2O-I2bs&feature=youtu.be
-2) https://www.youtube.com/watch?v=6xu6AVLEG6s
-3) https://www.youtube.com/watch?v=fn07iwCrvqQ
-4) https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html#py-background-subtraction
-5) https://www.youtube.com/watch?v=CCOXg75HkvM
-6) https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
-7) https://pythonprogramming.net/loading-images-python-opencv-tutorial/
-8) https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_colorspaces/py_colorspaces.html
-9) https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
-10) https://github.com/aquibjaved/Multiple-Color-Tracking-using-opencv-and-python-in-Real-Time
-11) https://pythonprogramming.net/using-pip-install-for-python-modules/
-12) https://github.com/arundaniel-kennedy/Gesture/blob/master/gesture.py
-13) https://stackoverflow.com/questions/50783617/python-how-to-return-the-window-size-of-a-cv2-imshow-window
-14) 
+1) https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+2) https://www.youtube.com/watch?v=IXyO2O-I2bs&feature=youtu.be
+3) https://www.youtube.com/watch?v=6xu6AVLEG6s
+4) https://www.youtube.com/watch?v=fn07iwCrvqQ
+5) https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html#py-background-subtraction
+6) https://www.youtube.com/watch?v=CCOXg75HkvM
+7) https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq
+8) https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+9) https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_colorspaces/py_colorspaces.html
+10) https://stackoverflow.com/questions/10948589/choosing-the-correct-upper-and-lower-hsv-boundaries-for-color-detection-withcv
+11) https://github.com/aquibjaved/Multiple-Color-Tracking-using-opencv-and-python-in-Real-Time
+12) https://pythonprogramming.net/using-pip-install-for-python-modules/
+13) https://github.com/arundaniel-kennedy/Gesture/blob/master/gesture.py
+14) https://stackoverflow.com/questions/50783617/python-how-to-return-the-window-size-of-a-cv2-imshow-window
+15) 

@@ -12,4 +12,5 @@
 12) https://pythonprogramming.net/using-pip-install-for-python-modules/
 13) https://github.com/arundaniel-kennedy/Gesture/blob/master/gesture.py
 14) https://stackoverflow.com/questions/50783617/python-how-to-return-the-window-size-of-a-cv2-imshow-window
-15) 
+15) https://github.com/sathviksunny/Monument--Detection
+16) 
